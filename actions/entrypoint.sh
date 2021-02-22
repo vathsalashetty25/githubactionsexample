@@ -1,3 +1,3 @@
 #!/bin/sh -l
-
-sh -c echo "Hello everyone, I'm $MY_NAME and this is my first GitHub Action!"
+MY_NAME= "vaibhav"
+sh -c echo "Hello $MY_NAME"
