@@ -1,6 +1,6 @@
 name: "Hello World!"
 description: "Greet the world"
-author: "Vaibhav Khulbe"
+author: "vathsala"
 
 inputs:
   MY_NAME:
